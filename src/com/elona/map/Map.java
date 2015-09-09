@@ -10,7 +10,6 @@ public class Map {
         mapChipID=mcID;
         mapChipFileID=mcfID;
         floor=f;
-        // テストによる追加部分
     }
     
 }
